@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title> Title which wasn't not displayed</title>
+    </head>
+    <body>
+        <h1>Heāding1</h1>
+        <h2>Heāding2</h2>
+        <h3>Heāding3</h3>
+        <h4>Heāding4</h4>
+        <h5>Heāding5</h5>
+        <h6>Heāding6</h6>
+        <p>
+            completed all types of heading sizes
+            <em>let's check another</em>
+        </p>
+        <font face="areial" size=5 color="orange">Basic Tags</font>
+        
+    </body>
+</html>
+    
